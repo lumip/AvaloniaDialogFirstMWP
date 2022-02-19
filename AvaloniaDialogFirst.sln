@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaDialogFirst", "AvaloniaDialogFirst.csproj", "{DA4326CD-C051-436B-BF23-A87932A18321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA4326CD-C051-436B-BF23-A87932A18321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA4326CD-C051-436B-BF23-A87932A18321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA4326CD-C051-436B-BF23-A87932A18321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA4326CD-C051-436B-BF23-A87932A18321}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
