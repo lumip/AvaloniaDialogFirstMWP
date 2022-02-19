@@ -40,6 +40,8 @@ namespace AvaloniaDialogFirst
                     // both of these lines are printed, but the window doesn't change
                 });
 
+                desktop.MainWindow = dialog;
+
                 // // replacing the MainWindow directly in here works (but is meaningless as I have no data for it)
                 // desktop.MainWindow = new MainWindow
                 // {
